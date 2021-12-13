@@ -16,4 +16,4 @@
 
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=bhaskar345&custom_title=Bhaskar's Contribution Graph&hide_border=true&theme=react-dark" />
+<img src="https://activity-graph.herokuapp.com/graph?username=bhaskar345&custom_title=Bhaskar's%20Contribution%20Graph&hide_border=true&theme=react-dark" />
