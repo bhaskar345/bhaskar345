@@ -4,9 +4,9 @@
 
 <img  align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar345&show_icons=true&theme=radical" />
 
-<img align="left" width="200px"  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align="left"   src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
  
-<img align="left" width="200px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 
 <img align="left"  src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
 
