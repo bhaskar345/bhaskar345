@@ -15,3 +15,5 @@
 <img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
+<img src="https://activity-graph.herokuapp.com/graph?username=bhaskar345&custom_title=This%20is%20a%20title&hide_border=true" />
