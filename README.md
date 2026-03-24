@@ -1,6 +1,6 @@
 # Hi there, I'm Bhaskar Chauhan 👋
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate developer with a keen interest in building web applications using Python and Django/FastAPI. I love exploring new technologies and constantly expanding my skill set, especially in AI and LLM applications.
 
